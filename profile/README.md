@@ -1,4 +1,4 @@
-# Tyrolium
+# A propos de Tyrolium
 
 Tyrolium est une entreprise multisectorielle qui travaille sur plusieurs projets, principalement sur du développement Web mais aussi notamment du développement de jeux vidéos ou d'applications, de la musique, ou de l'audiovisuel.
 
