@@ -1,8 +1,5 @@
-# A propos de Tyrolium
+# A propos de Wonderlium 
 
-Tyrolium est une entreprise multisectorielle qui travaille sur plusieurs projets, principalement sur du développement Web mais aussi notamment du développement de jeux vidéos ou d'applications, de la musique, ou de l'audiovisuel.
-
-Elle propose principalement des prestations de services de création de site Web et d'applications pour les particuliers et les professionnels.
-
-Les profits générés par ces prestations seront directement investies dans les projets de l'entreprise.
+Collectif de personnes passionnés
+Ce collectif de passionnés propose des vidéos sur youtube et d'autres projets sur l'univers geek en général gérés et créés par l'entreprise Tyrolium.
 
